@@ -15,4 +15,4 @@
 
 
 
-- <a href="https://solved.ac/profile/tony081119"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tony081119"/></a>
+<a href="https://solved.ac/profile/tony081119"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tony081119"/></a>
